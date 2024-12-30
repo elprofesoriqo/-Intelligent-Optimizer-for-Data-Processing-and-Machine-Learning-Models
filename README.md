@@ -98,9 +98,6 @@ The library aims to:
 - Automated hyperparameter optimization
 - Web visualization interface
 
-# 📞 Contact
-**Igor Jankowski**  
-[igorjankowwski@gmail.com](mailto:igorjankowwski@gmail.com)
 
 # 🌟 Support
 If you find this project useful, please consider:
